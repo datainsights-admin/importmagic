@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543063414981",
+    "project_id": "ondc-409004",
+    "storage_bucket": "ondc-409004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543063414981:android:eb21cd7eda314e7b5878ac",
+        "android_client_info": {
+          "package_name": "com.datainsights.ae.importmagic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCts1Piq8OXMfw_HmyB_2my48Ys-foWejI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

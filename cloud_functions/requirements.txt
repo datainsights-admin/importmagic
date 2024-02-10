@@ -1,0 +1,13 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-vision
+google-cloud-aiplatform>=1.38
+google-cloud-firestore
+google-api-python-client
+google-auth-oauthlib
+gspread==5.12.3
+google-cloud-storage
+numpy
+google-cloud-speech
+google-cloud-translate
+pydub
